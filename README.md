@@ -13,6 +13,7 @@ Define a Movie struct with the following attributes:
     year: String
     genre: String
     description: String
+    thumbURL: String
 
 ## Use new observation framework
 Use the @Observable property wrapper for managing the state of your movie data within your views.
